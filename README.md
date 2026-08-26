@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Selected projects
+
+### Cancer Dependency Explorer
+Reproducible analysis of molecular features associated with cancer
+gene dependency using public DepMap data. You are interested in a gene,
+this little app tells you the molecular features associated to that
+dependency.
+
+### SYLVER
+Web application accompanying our Nature Genetics study of
+synthetic-lethal buffering in human cancers. How cool is that?!
+
+### Food Environmental Impact
+Interactive R Shiny application exploring the environmental
+footprint of food production. Developed for a 2023 Johns Hopkins
+University Course. My first-app-ever!
