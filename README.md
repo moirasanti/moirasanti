@@ -1,11 +1,16 @@
 ## Hi there 👋
-Welcome to my GitHub. i am a computational scientist with background in cell and cancer biology.
+Welcome to my GitHub. 
 
-I hold a PhD degree in Biochemistry, and have developed skills in data science working at The Institute of Cancer Research. 
+I am a computational scientist with background in cell and cancer biology.
 
-As you may see below, I also am interested in environmental and climate sciences, my first data project ever was on the impact of food production on the environment for a Johns Hopkins University course. 
+I hold a PhD degree in Biochemistry and developed my data science skills while working at The Institute of Cancer Research, UK. My background therefore spans both experimental biology and computational sciences.
 
-Have a look at what else is over here and get in touch :)
+I am also interested in environmental and climate science. In fact, my first data science project explored the environmental impact of food production as part of a Johns Hopkins University course. 
+
+Have a look around at some of the projects below, and feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/maderasantiago/) :)
+
+For questions about a specific repository, feel free to open an issue.
+
 <!--
 **moirasanti/moirasanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,19 +25,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Selected projects
 
-### Cancer Dependency Explorer
+
+### Selected projects
+
+#### Cancer Dependency Explorer
 Reproducible analysis of molecular features associated with cancer
 gene dependency using public DepMap data. You are interested in a gene,
 this little app tells you the molecular features associated to that
 dependency.
 
-### SYLVER
+#### SYLVER
 Web application accompanying our Nature Genetics study of
 synthetic-lethal buffering in human cancers. How cool is that?!
 
-### Food Environmental Impact
+#### Food Environmental Impact
 Interactive R Shiny application exploring the environmental
 footprint of food production. Developed for a 2023 Johns Hopkins
 University Course. My first-app-ever!
