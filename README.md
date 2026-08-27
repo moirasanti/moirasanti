@@ -1,5 +1,11 @@
 ## Hi there 👋
+Welcome to my GitHub. i am a computational scientist with background in cell and cancer biology.
 
+I hold a PhD degree in Biochemistry, and have developed skills in data science working at The Institute of Cancer Research. 
+
+As you may see below, I also am interested in environmental and climate sciences, my first data project ever was on the impact of food production on the environment for a Johns Hopkins University course. 
+
+Have a look at what else is over here and get in touch :)
 <!--
 **moirasanti/moirasanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
